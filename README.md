@@ -28,4 +28,5 @@ npm run preview
 
 生产构建的 Vite `base` 已设为 `/fortune-telling/`，本地开发仍使用 `/`。若更改仓库名称或使用独立域名，请同步调整 `vite.config.js` 的 `base`。
 
+
 使用 `npm run build` 和 `npm run preview` 验证生产构建时，访问预览地址下的 `/fortune-telling/` 路径。
